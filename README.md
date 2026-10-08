@@ -28,7 +28,7 @@ The corresponding server is implemented separately by my teammate Kartik.
 
 **Server repository:**
 
-https://github.com/Kartik-Pettugani/NetworkArchitecture_Project
+https://github.com/Kartik-Pettugani/Network_Architecture_Project
 
 The client and server are separate implementations. Their only shared contract is the BHTTP/1 protocol specified in `SPEC.md`.
 
